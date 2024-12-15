@@ -1,0 +1,1 @@
+this is a test. the oldWord is here. find the targetPhrase in this text? this line contains multiple targetPhrase entries! replace words and capitalize them as needed. capitalize all sentences properly.
